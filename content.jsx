@@ -7,7 +7,7 @@ const I18N = {
       name: ['Вадим', 'Янковский'],
       emWord: 'делаю',
       sub: 'Учусь во ВШЭ на «Программирование и инженеринг компьютерных игр». Делаю мобильные игры и Telegram-проекты — от пазлов до настолок-в-боте.',
-      metaLeft: 'Москва, RU',
+      metaLeft: 'Санкт-Петербург, RU',
       metaRight: 'Открыт к проектам',
       scroll: 'Скролль вниз',
     },
@@ -19,10 +19,10 @@ const I18N = {
       facts: [
         { label: 'Университет', value: 'НИУ ВШЭ' },
         { label: 'Направление', value: 'GameDev' },
-        { label: 'База', value: 'Москва' },
+        { label: 'База', value: 'СПб' },
         { label: 'Статус', value: 'Студент / open' },
       ],
-      photoCap: ['№001 — Аватар', 'YYYY.MM'],
+      photoCap: ['№001 — Аватар', '2006.12'],
     },
     ach: {
       label: '02 — Достижения',
@@ -54,7 +54,7 @@ const I18N = {
           meta: [
             { label: 'Роль', value: 'Solo dev' },
             { label: 'Время', value: '~2 мес.' },
-            { label: 'Платформа', value: 'Mobile' },
+            { label: 'Платформа', value: 'Web' },
           ],
           visual: 'hex',
         },
@@ -107,7 +107,7 @@ const I18N = {
       name: ['Vadim', 'Yankovsky'],
       emWord: 'builds',
       sub: 'Studying Game Programming & Engineering at HSE. Building mobile games and Telegram experiments — from puzzles to board-games-in-a-bot.',
-      metaLeft: 'Moscow, RU',
+      metaLeft: 'Saint-Peterburg, RU',
       metaRight: 'Open to work',
       scroll: 'Scroll down',
     },
@@ -119,10 +119,10 @@ const I18N = {
       facts: [
         { label: 'University', value: 'HSE' },
         { label: 'Major', value: 'Game dev' },
-        { label: 'Base', value: 'Moscow' },
+        { label: 'Base', value: 'SPb' },
         { label: 'Status', value: 'Student / open' },
       ],
-      photoCap: ['№001 — Avatar', 'YYYY.MM'],
+      photoCap: ['№001 — Avatar', '2006.12'],
     },
     ach: {
       label: '02 — Wins',
